@@ -1,0 +1,13 @@
+https://github.com/BLINGBOARD/gh-repo-clone-nodejs-node-addon-api.git   
+
+echo "# gh-repo-clone-nodejs-node-addon-api" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BLINGBOARD/gh-repo-clone-nodejs-node-addon-api.git
+git push -u origin main
+
+git remote add origin https://github.com/BLINGBOARD/gh-repo-clone-nodejs-node-addon-api.git
+git branch -M main
+git push -u origin main
